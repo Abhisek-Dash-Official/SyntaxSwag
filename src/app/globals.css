@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html {
+    scroll-padding-top: 5rem;
+}
+
+
+* {
+    scrollbar-width: none;
+}
