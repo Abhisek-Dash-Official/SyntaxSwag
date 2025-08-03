@@ -66,23 +66,23 @@ DBname=
 ## Screenshots
 
 **Homepage:**
-![HomePage](<Screenshot 2025-08-02 at 9.06.33 PM.png>)
-![HomePgae 2nd Half](<Screenshot 2025-08-02 at 9.07.37 PM.png>)
+![HomePage 1st half](<Screenshot 2025-08-02 at 9.06.33 PM-min.png>)
+![HomePage 2nd half](<Screenshot 2025-08-02 at 9.07.37 PM.png>)
 
 **One of the category Page**
-![One category Page](<Screenshot 2025-08-02 at 9.08.00 PM.png>)
+![Category](<Screenshot 2025-08-02 at 9.08.00 PM.png>)
 
 **Filter**
 ![Filter](<Screenshot 2025-08-02 at 9.08.14 PM.png>)
 
 **CartSideBar**
-![CartSideBar](<Screenshot 2025-08-02 at 9.08.48 PM.png>)
+![Cart](<Screenshot 2025-08-02 at 9.08.48 PM.png>)
 
 **Search bar**
-![Search Bar](<Screenshot 2025-08-02 at 9.08.57 PM.png>)
+![Search](<Screenshot 2025-08-02 at 9.08.57 PM.png>)
 
 **Loading view**
-![Loading view](<Screenshot 2025-08-02 at 9.14.41 PM.png>)
+![Loading](<Screenshot 2025-08-02 at 9.14.41 PM.png>)
 
 **Register- Login & Sign up pages**
 ![Register](<Screenshot 2025-08-02 at 9.57.33 PM.png>)
@@ -91,10 +91,10 @@ DBname=
 ![Product](<Screenshot 2025-08-02 at 9.48.38 PM.png>)
 
 **Checkout page:**
-![Checkout Page](<Screenshot 2025-08-02 at 9.13.07 PM.png>)
+![Checkout](<Screenshot 2025-08-02 at 9.13.07 PM.png>)
 
 **Mobile View:**
-![Mobile View](<Screenshot 2025-08-02 at 10.01.56 PM.png>)
+![Mobile](<Screenshot 2025-08-02 at 10.01.56 PM.png>)
 
 ## What I Learned 📚
 
